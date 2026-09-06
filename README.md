@@ -8,10 +8,10 @@ O **Água Alerta** é um site social que permite aos cidadãos registrar, visual
 
 ##  Funcionalidades Principais
 
-*   ** Registro de Denúncias:** O usuário informa a localização, descreve o problema e seleciona uma categoria.
-*   ** Evidências Visuais:** Opção de fazer o upload de fotos para comprovar o problema.
-*   ** Mapa da Comunidade:** Painel público interativo onde qualquer pessoa pode ver as denúncias ativas na região.
-*   ** Acompanhamento de Status:** Linha do tempo transparente indicando se o problema está *Pendente*, *Encaminhado ao Órgão* ou *Resolvido*.
+*    Registro de Denúncias: O usuário informa a localização, descreve o problema e seleciona uma categoria.
+*   *Evidências Visuais:* Opção de fazer o upload de fotos para comprovar o problema.
+*    Mapa da Comunidade: Painel público interativo onde qualquer pessoa pode ver as denúncias ativas na região.
+*    Acompanhamento de Status:*Linha do tempo transparente indicando se o problema está Pendente*, *Encaminhado ao Órgão* ou *Resolvido*.
 
 ###  Categorias Suportadas
 *   Vazamento de água limpa
